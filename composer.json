@@ -1,5 +1,5 @@
 {
-  "name": "alirezax5/zarinpalRest",
+  "name": "alirezax5/zarinpal-rest",
   "autoload": {
     "psr-4": {
       "Alirezax5\\Zarinpal\\": "src/"
